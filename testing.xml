@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<well>
+    <equipments>
+        <id_well>1</id_well>
+        <name>one___0</name>
+    </equipments>
+    <equipments>
+        <id_well>1</id_well>
+        <name>four___0</name>
+    </equipments>
+    <equipments>
+        <id_well>1</id_well>
+        <name>three___0</name>
+    </equipments>
+    <equipments>
+        <id_well>1</id_well>
+        <name>two___0</name>
+    </equipments>
+    <id>1</id>
+    <name>frog</name>
+</well>
